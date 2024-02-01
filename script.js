@@ -1,18 +1,16 @@
 //↓↓↓↓↓↓↓↓↓↓↓↓TROUBLESHOOT the code  below here↓↓↓↓↓↓↓↓↓↓↓↓
-//define a new let
-//if (true) {
+if (true) {
     let oneLet = "Hello!";
-//}
+}
 
 const temperature = 34;
-//temperature = 23;
+temperature = 23;
 
-let myNeatArray = [1, 34, temperature, true, 'hi, there!'];
+let myNeatArray = [1, 34, temperature, true 'hi, there!'];
 
 console.log(myNeatArray[6])
 
-myNeatArray.push('anotherThing')
-
+myNewArray.push('anotherThing')
 
 
 //↑↑↑↑↑↑↑↑↑↑TROUBLESHOOT the code above here↑↑↑↑↑↑↑↑↑↑
